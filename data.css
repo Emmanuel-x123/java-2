@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(10,36,94,1) 19%, rgba(22,85,173,1) 45%, rgba(17,23,27,1) 69%, rgba(34,136,255,1) 72%, rgba(36,36,143,1) 73%, rgba(3,8,21,1) 99%);
+}
+
+.container{
+    /* background-color: navajowhite; */
+  width: 100%;
+  height: 150vh;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center; 
+  color: brown; 
+}
+
+h3{
+  text-align: center; 
+  color: white  
+}
+
+
+p{
+  text-align: center; 
+  color: white  
+}
