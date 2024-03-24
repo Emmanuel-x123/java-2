@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    background: linear-gradient(90deg, rgb(80, 44, 76) 20%, rgb(83, 31, 74) 44%, rgb(88, 27, 129) 86%, rgb(52, 5, 85) 100%);
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    color: gold;
+    font-weight: 900;
+}
+
+p{
+  font-size: 35px;
+  color: azure;  
+  font-weight: 400;
+}
